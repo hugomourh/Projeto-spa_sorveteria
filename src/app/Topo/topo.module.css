@@ -1,0 +1,30 @@
+
+
+.fundo{
+    margin: 0% ;
+    display: flex;
+    background-color: #F9DB79;
+    
+}
+
+
+.imagem{
+    height: 15vh;
+    width: 10vw;
+    margin-left: 220px;
+}
+
+.lista_links {
+    display: flex;
+    margin-left: 300px;
+   
+    
+}
+
+.links{
+    text-decoration: none;
+    padding: 20px 40px;
+    color: black;
+    font-size: 22px;
+}
+

@@ -1,0 +1,21 @@
+.fundo_rodape{
+    background-color: black;
+    color: white;
+    
+}
+
+
+.bloco_rodape{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bloco{
+    margin-bottom: 10px;
+}
+
+.image{
+height: 30vh;
+width: 20vw;
+}
